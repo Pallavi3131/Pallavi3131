@@ -1,12 +1,10 @@
-<h1 align="center">Heyy!👀 Pallavi Gaikwad here!⚡</h1>
+<h1 align="center">Pallavi Gaikwad⚡</h1>
 <h3 align="center"> TECH Enthusiast Elevating People!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi3131&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi3131" /> </p>
 
 - 🌱 I’m currently learning **React.JS**
-
-- 💬 Ask me about **Flask!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
